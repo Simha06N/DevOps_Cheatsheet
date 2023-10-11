@@ -22,7 +22,8 @@
   - for more details refer  [https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1](https://github.com/DeekshithSN/cheatsheet/blob/master/installtion_guide_ubuntu.md)
 
 #### to install latest version 
-        sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+    sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+ 
+   Test the Docker using version or sample applicaiton deployment
 
-   - Test your installion
-        sudo docker run hello-world
+    sudo docker run hello-world
