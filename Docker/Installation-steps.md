@@ -35,6 +35,6 @@ Step:3 To install latest version
      sudo groupadd docker
      sudo usermod -aG docker $USER
 
-If you want all the things in a script [clickHere]()
+If you want all the things in a script [clickHere](https://github.com/Simha06N/DevOps_Cheatsheet/blob/main/Docker/docker-instalation.sh)
 
 Note: for more details refer  [https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1)
