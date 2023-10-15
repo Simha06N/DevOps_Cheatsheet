@@ -37,4 +37,4 @@ Step:3 To install latest version
 
 If you want all the things in a script [clickHere]()
 
-Note: for more details refer  [https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1](https://github.com/DeekshithSN/cheatsheet/blob/master/installtion_guide_ubuntu.md)
+Note: for more details refer  [https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1)
